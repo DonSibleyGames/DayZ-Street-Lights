@@ -1,0 +1,49 @@
+{
+                      "Objects": [
+{
+                    "name": "Misc_Spotlight",
+                    "pos": [
+                    4361.049429264944,
+                    242.35890999999998,
+                    4611.274025770129
+                  ],
+                    "ypr": [
+                    162.070085,
+                    0,
+                    -179.999985
+                    ],
+                    "scale": 0.7,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Misc_Spotlight",
+                    "pos": [
+                    4365.03494599169,
+                    244.76091,
+                    4687.22878636484
+                  ],
+                    "ypr": [
+                    172.721415,
+                    0,
+                    -179.999985
+                    ],
+                    "scale": 0.7,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Misc_Spotlight",
+                    "pos": [
+                    4409.335637348277,
+                    246.31891,
+                    4678.516296723581
+                  ],
+                    "ypr": [
+                    291.267985,
+                    0,
+                    -179.999985
+                    ],
+                    "scale": 0.7,
+                    "enableCEPersistency": false
+                }
+			]
+            }

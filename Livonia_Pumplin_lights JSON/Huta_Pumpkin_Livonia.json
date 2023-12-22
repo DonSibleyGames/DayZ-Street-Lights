@@ -1,0 +1,49 @@
+{
+                      "Objects": [
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    5197.1703622573405,
+                    377.661192,
+                    5647.6826472156
+                  ],
+                    "ypr": [
+                    239.088,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    5178.773032111525,
+                    377.325192,
+                    5683.170279046333
+                  ],
+                    "ypr": [
+                    145.942,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    5234.189590551964,
+                    377.811192,
+                    5670.656486585343
+                  ],
+                    "ypr": [
+                    353.1906,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                }
+			]
+            }

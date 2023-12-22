@@ -1,0 +1,304 @@
+{
+                      "Objects": [
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    5954.893901851607,
+                    227.546192,
+                    8067.311325959468
+                  ],
+                    "ypr": [
+                    166.036,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6026.725501349438,
+                    227.08419199999997,
+                    8036.825603618205
+                  ],
+                    "ypr": [
+                    15.3863,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6035.957413717581,
+                    227.09019199999997,
+                    8062.305140528812
+                  ],
+                    "ypr": [
+                    19.2005,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6034.038504625066,
+                    226.14619199999999,
+                    8097.926663561166
+                  ],
+                    "ypr": [
+                    318.2349,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6019.1007826427085,
+                    226.385192,
+                    8146.5220880865045
+                  ],
+                    "ypr": [
+                    49.507,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6037.706247606687,
+                    226.22019199999997,
+                    8118.285101698026
+                  ],
+                    "ypr": [
+                    42.342,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6002.926436679554,
+                    227.36519199999998,
+                    8119.832448661805
+                  ],
+                    "ypr": [
+                    132.026,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6047.893217943305,
+                    226.27919199999997,
+                    8170.69479613422
+                  ],
+                    "ypr": [
+                    39.6941,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6056.560534163714,
+                    226.319192,
+                    8078.805721135151
+                  ],
+                    "ypr": [
+                    100.737,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6055.591926312685,
+                    226.040192,
+                    8139.477623500102
+                  ],
+                    "ypr": [
+                    315.6832,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6088.28484841166,
+                    225.28319199999999,
+                    8225.480092162505
+                  ],
+                    "ypr": [
+                    37.5876,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6109.230409437167,
+                    224.50319199999998,
+                    8141.391133978759
+                  ],
+                    "ypr": [
+                    43.222,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6144.446419382325,
+                    223.456192,
+                    8176.47329752631
+                  ],
+                    "ypr": [
+                    40.1716,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6128.094662885614,
+                    225.71119199999998,
+                    8269.59461142351
+                  ],
+                    "ypr": [
+                    47.7894,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6182.4924188285895,
+                    224.60819199999997,
+                    8326.187026842654
+                  ],
+                    "ypr": [
+                    45.8594,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6383.238764475228,
+                    232.47619199999997,
+                    8138.446166837409
+                  ],
+                    "ypr": [
+                    133.712,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6431.541873873045,
+                    232.46019199999998,
+                    8144.745393052142
+                  ],
+                    "ypr": [
+                    44.3715,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6412.1227446552375,
+                    232.55919199999997,
+                    8135.159121690543
+                  ],
+                    "ypr": [
+                    132.875,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6434.21911491005,
+                    232.11919199999997,
+                    8190.999104777751
+                  ],
+                    "ypr": [
+                    41.3563,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "PumpkinHelmet",
+                    "pos": [
+                    6409.593859995747,
+                    232.183192,
+                    8161.765937100878
+                  ],
+                    "ypr": [
+                    132.626,
+                    -90,
+                    -90
+                    ],
+                    "scale": 0.999961,
+                    "enableCEPersistency": false
+                }
+			]
+            }
